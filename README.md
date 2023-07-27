@@ -4,7 +4,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/linzepore/linzepore/output/github-contribution-grid-snake.svg">
 </picture>
 
-### Hi there 👋
+### Hi there 👋 [![Linzepore's Blog](https://img.shields.io/badge/Linzepore's_Blog-my_public_blog-ffd36f.svg)](https://blog.zepo.re)
 
 <!--
 **linzepore/linzepore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
