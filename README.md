@@ -6,7 +6,26 @@
 
 ### Hi there 👋 
 
-[![Linzepore's Blog](https://img.shields.io/badge/Linzepore's_Blog-my_public_blog-ffd36f.svg)](https://blog.zepo.re)
+**linzepore** is a ✨ _complex_ _man_ ✨.
+
+Here are some features to get you knowned:
+
+- 💻 I’m currently working on back-end development
+- 🌱 I’m currently learning computer networks, pedagogy and psychology
+- 🤔 I’m looking for help with systematic learning of front-end knowledge
+- 💬 Chat me about  [ `Cat` / `Anime` / `Java` / `Vue` / `Photoshop` / `Premiere` / `Office`]
+- 📫 How to reach me: `linzepore@qq.com` / `linzepore@gmail.com`
+- 😄 Pronouns:
+
+  - `AI Adventist`
+  - `laconic man`
+  - `National scholarship recipients`
+  - `Second prize winners in CHINA SOFTWARE CUP COLLEGE STUDENT SOFTWARE DESIGN COMPETITION (First place on the racetrack B5)`
+- ⚡ Fun fact: Heterosexual & single
+
+
+[![Linzepore's Blog](https://img.shields.io/badge/Linzepore's_Blog-my_public_blog-ffd36f.svg)](https://blog.zepo.re) 
+[![Linzepore's Memos](https://img.shields.io/badge/Linzepore's_Memos-my_moments-1AAD19.svg)](https://memos.zepo.re)
 
 <!--
 **linzepore/linzepore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
