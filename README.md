@@ -14,7 +14,7 @@ Here are some features to get you knowned:
 - 🌱 I’m currently learning computer networks, pedagogy and psychology
 - 🤔 I’m looking for help with systematic learning of front-end knowledge
 - 💬 Chat with me about: [ `Cat` / `Anime` / `Java` / `Vue` / `Photoshop` / `Premiere` / `Office`]
-- 📫 How to reach me: `linzepore@qq.com` / `linzepore@gmail.com`
+- 📫 How to reach me: `i@zepo.re` / `linzepore@qq.com` / `linzepore@gmail.com`
 - 😄 Pronouns:
 
   - `AI Adventist`
