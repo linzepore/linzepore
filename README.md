@@ -6,9 +6,9 @@
 
 ### Hi there 👋 
 
-**linzepore** is a ✨ _complex_ _man_ ✨.
+**linzepore** is a ✨ _multifaceted_ _individual_ ✨.  
 
-Here are some features to get you knowned:
+Here are some features to help you get to know me better:
 
 - 💻 I’m currently working on back-end development
 - 🌱 I’m currently learning computer networks, pedagogy and psychology
