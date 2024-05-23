@@ -13,15 +13,18 @@ Here are some features to get you knowned:
 - 💻 I’m currently working on back-end development
 - 🌱 I’m currently learning computer networks, pedagogy and psychology
 - 🤔 I’m looking for help with systematic learning of front-end knowledge
-- 💬 Chat me about  [ `Cat` / `Anime` / `Java` / `Vue` / `Photoshop` / `Premiere` / `Office`]
+- 💬 Chat with me about: [ `Cat` / `Anime` / `Java` / `Vue` / `Photoshop` / `Premiere` / `Office`]
 - 📫 How to reach me: `linzepore@qq.com` / `linzepore@gmail.com`
 - 😄 Pronouns:
 
   - `AI Adventist`
-  - `laconic man`
-  - `National scholarship recipients`
+  - `one laconic man`
+  - `Avoidant Personality`
+  - `Melancholy on rainy days`
+  - `National scholarship recipient`
   - `Second prize winners in CHINA SOFTWARE CUP COLLEGE STUDENT SOFTWARE DESIGN COMPETITION (First place on the racetrack B5)`
-- ⚡ Fun fact: Heterosexual & single
+
+- ⚡ Fun fact: Heterosexual & Single AF  
 
 
 [![Linzepore's Blog](https://img.shields.io/badge/Linzepore's_Blog-my_public_blog-ffd36f.svg)](https://blog.zepo.re) 
