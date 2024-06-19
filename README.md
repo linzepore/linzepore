@@ -11,12 +11,13 @@
 Here are some features to help you get to know me better:
 
 - 💻 I’m currently working on back-end development
-- 🌱 I’m currently learning computer networks, pedagogy and psychology
+- 🌱 I’m currently learning computer networks, pedagogy and psychology in SCNU
 - 🤔 I’m looking for help with systematic learning of front-end knowledge
-- 💬 Chat with me about: [ `Cat` / `Anime` / `Java` / `Vue` / `Photoshop` / `Premiere` / `Office`]
+- 💬 Chat with me about: [ `Cat` / `Anime` / `Pytorch` / `Java` / `Vue` / `Photoshop` / `Premiere` / `Office`]
 - 📫 How to reach me: `i@zepo.re` / `linzepore@qq.com` / `linzepore@gmail.com`
 - 😄 Pronouns:
 
+  - `NLP beginner`
   - `AI Adventist`
   - `one laconic man`
   - `Avoidant Personality`
