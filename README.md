@@ -20,7 +20,7 @@ Here are some features to help you get to know me better:
   - `NLP beginner`
   - `AI Adventist`
   - `one laconic man`
-  - `Avoidant Personality`
+  - `Ambivert & Avoidant Personality`
   - `Melancholy on rainy days`
   - `National scholarship recipient`
   - `Second prize winners in CHINA SOFTWARE CUP COLLEGE STUDENT SOFTWARE DESIGN COMPETITION (First place on the racetrack B5)`
