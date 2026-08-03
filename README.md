@@ -11,8 +11,8 @@
 Here are some features to help you get to know me better:
 
 - 💻 I’m currently working on back-end development
-- 🌱 I’m currently learning computer networks, pedagogy and psychology in SCNU
-- 🤔 I’m looking for help with systematic learning of front-end knowledge
+- 🌱 I’m currently learning quant trading & Harness Engineering
+- 🤔 I’m exploring ways to work more effectively alongside AI
 - 💬 Chat with me about: [ `Cat` / `Anime` / `Pytorch` / `Java` / `Vue` / `Photoshop` / `Premiere` / `Office`]
 - 📫 How to reach me: `i@zepo.re` / `linzepore@qq.com` / `linzepore@gmail.com`
 - 😄 Pronouns:
@@ -25,7 +25,7 @@ Here are some features to help you get to know me better:
   - `National scholarship recipient`
   - `Second prize winners in CHINA SOFTWARE CUP COLLEGE STUDENT SOFTWARE DESIGN COMPETITION (First place on the racetrack B5)`
 
-- ⚡ Fun fact: Heterosexual & Single AF  
+- ⚡ Fun fact: Heterosexual  
 
 
 [![Linzepore's Blog](https://img.shields.io/badge/Linzepore's_Blog-my_public_blog-ffd36f.svg)](https://blog.zepo.re) 
